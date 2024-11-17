@@ -1,2 +1,2 @@
-# My-Unity-AR
- Its Application Repo
+# Planet-AR-app
+ Its Android based Unity3d AR app
